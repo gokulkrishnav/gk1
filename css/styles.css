@@ -1,0 +1,161 @@
+body{
+margin: 0;
+text-align: center;
+color: #40514E;
+}
+h1{
+
+top: 100px;
+position: relative;
+color:#66BFBF;
+font-size: 6rem;
+  font-family: 'Sacramento';
+}
+hr{
+border-style:dotted none none;
+border-color: #EAF6F6;
+border-width: 5px;
+width: 5%;
+}
+h2{
+  color:#66BFBF;
+  font-size: 2.5rem;
+    margin: 100px auto 0 auto;
+  font-weight: normal;
+line-height: 2;
+}
+h3{
+  color: #11999E;
+  margin:100px 0;
+}
+
+p{
+ font-family: 'Dancing Script',;
+ color:#40514E;
+ line-height: 2;
+}
+.intro{
+  width: 30%;
+  text-align: center;
+  margin: auto;
+}
+
+.tope{
+  background-color:#EAF6F6;
+  height: 700px;
+position: relative;
+}
+.middle{
+  margin: 100px 0;
+
+}
+.bottom{
+  background-color: #B5EAEA;
+    padding: 50px 0 20px;
+
+}
+.shisue{
+  border-radius: 100%;
+  height: 200px;
+  width: 200px;
+}
+.cloud1{
+  position: absolute;
+top: 40px;
+  left:1000px;
+
+}
+.cloud2{
+    position: absolute;
+    bottom:300px;
+    right: 1100px;
+}
+.mountain{
+  position:absolute;
+  top: 340px;
+  right: 450px;
+}
+.footer-link{
+
+  color: #11999E;
+  background-color: #B5EAEA;
+}
+.skill-row{
+  width:50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+}
+.chillies{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+
+}
+.computer{
+  width: 25%;
+  border-radius: 100%;
+  float: right;
+  margin-left: 30px;
+}
+.contact{
+  width: 30%;
+  margin:1px auto 40px;
+}
+a{
+  margin: 10px 20px;
+
+}
+a:hover{
+  color: #EAF6F6;
+}
+.sominfo{
+  color: #EAF6F6;
+  font-size: 0.7rem;
+}
+
+
+
+
+
+
+
+.btn {
+   background: #11999E;
+   background-image: -webkit-linear-gradient(top, #11999E, #11999E);
+   background-image: -moz-linear-gradient(top, #11999E, #11999E);
+   background-image: -ms-linear-gradient(top, #11999E, #11999E);
+   background-image: -o-linear-gradient(top, #11999E, #11999E);
+   background-image: -webkit-gradient(to bottom, #11999E, #11999E);
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   color: #FFFFFF;
+  font-family: 'Dancing Script';
+   font-size: 20px;
+   font-weight: 50;
+   padding: 5px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn {
+   border: solid #337FED 1px;
+   background: #30E3EB;
+   background-image: -webkit-linear-gradient(top, #30E3EB, #2BC4AD);
+   background-image: -moz-linear-gradient(top, #30E3EB, #2BC4AD);
+   background-image: -ms-linear-gradient(top, #30E3EB, #2BC4AD);
+   background-image: -o-linear-gradient(top, #30E3EB, #2BC4AD);
+   background-image: -webkit-gradient(to bottom, #30E3EB, #2BC4AD);
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   text-decoration: none;
+}
